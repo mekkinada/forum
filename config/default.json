@@ -1,0 +1,8 @@
+{
+    "mongoURI"  : "mongodb+srv://authentication:authentication@cluster0.bkvds.mongodb.net/test_authentication?retryWrites=true&w=majority" ,
+    
+
+    "jwtSecret" : "mysecrettoken"
+
+    
+}
